@@ -1,3 +1,4 @@
 # tmespe.github.io
 
-# My page
+# My resume hosted on GitHub pages
+Simple code for hosting my PDF resume on GitHub pages with Google Analytics. 
